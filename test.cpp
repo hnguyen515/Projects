@@ -2,9 +2,11 @@
 using namespace std;
 
 class Test {
+
   static int x;
 public:
   static int y;
+  
 
   void func(int x) {
     cout << "Value of static x is " << Test::x;
