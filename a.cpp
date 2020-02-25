@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Hanh made this change :)
+
 class A {
 public:
   void fun();
